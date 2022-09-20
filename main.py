@@ -1,1 +1,1 @@
-print ("Hello World, que fácil es este código...")
+print ("Hello World")
